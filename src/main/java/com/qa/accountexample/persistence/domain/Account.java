@@ -1,4 +1,4 @@
-package com.qa.accountexample.domain;
+package com.qa.accountexample.persistence.domain;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
