@@ -55,4 +55,11 @@ public class Account {
     // A Long id field that is set to AUTO_INCREMENT.
 
     // A String name field.
+
+//     spring.h2.console.enabled=true
+// spring.datasource.url=jdbc:mysql://localhost:3306/INSERTYOURDATABASENAME
+// spring.datasource.username=root
+// spring.datasource.password=
+// from Abdirahman to everyone in this session:    5:05 PM
+// spring.jpa.hibernate.ddl-auto = create
 }
